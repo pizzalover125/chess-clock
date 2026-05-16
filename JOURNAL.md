@@ -61,7 +61,7 @@
 - ok turns out the cables are power-only; not data; i need to buy a new cable
 - oh well, will try tomorrow
 
-# 5/16: 45 minutes
+# 5/16: 55 minutes
 - okay i tried a THIRD cable and it STILL DOESN'T WORK
 - I need to buy another cable later
 - I'll work on PCB
