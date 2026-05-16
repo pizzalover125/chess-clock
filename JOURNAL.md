@@ -44,3 +44,19 @@
 - tried to add texture but it didn't end up working
 - ok i just realized the way i envisioned it is completely wrong
 - i think i'll switch this to a cubing timer cause this is the proper thing for that
+
+# 5/15 part 2: 30 minutes
+- wanted to build cubing timer in person cause i have all the parts!
+- finished placing and wiring super quickly
+
+[will add image here; took photo on phone]
+
+- will vibecode software something up super fast
+- ok code generated but i don't have a cable; let me look for one
+- found cable
+- tried on my Microsoft Surface; didn't work
+- tried another cable
+- tried to connect to Mac; didn't work
+- idk this is so weird; i've tried 2 different cables, 2 different OSes, and 3 different Picos and it never shows up on the computer.
+- ok turns out the cables are power-only; not data; i need to buy a new cable
+- oh well, will try tomorrow
