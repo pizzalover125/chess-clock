@@ -45,7 +45,7 @@
 - ok i just realized the way i envisioned it is completely wrong
 - i think i'll switch this to a cubing timer cause this is the proper thing for that
 
-# 5/15 part 2: 30 minutes
+# 5/15 part 2: 45 minutes
 - wanted to build cubing timer in person cause i have all the parts!
 - finished placing and wiring super quickly
 
@@ -60,3 +60,45 @@
 - idk this is so weird; i've tried 2 different cables, 2 different OSes, and 3 different Picos and it never shows up on the computer.
 - ok turns out the cables are power-only; not data; i need to buy a new cable
 - oh well, will try tomorrow
+
+# 5/16: 45 minutes
+- okay i tried a THIRD cable and it STILL DOESN'T WORK
+- I need to buy another cable later
+- I'll work on PCB
+- finished w schematic bc its super ez
+- i want to use 1.3" OLED cause its bigger so easier to see
+- downloaded the footprint + schematic from SNAPEDA
+- updated schematic
+
+<img width="1248" height="501" alt="image" src="https://github.com/user-attachments/assets/b7f07b0b-41b5-4a73-ac04-25c19f0b209f" />
+
+- idk where to put MCU
+- if I put it under then OLED pins would hit the MCU
+- ok someone told me I can put it under
+- found 3D model of OLED in GrabCAD and imported it
+- downloaded Xiao RP2040 model from GrabCAD and imported it
+- routed everything
+- was going to move the mounting holes but decided not to
+- ONSHAPE time!
+
+<img width="1371" height="659" alt="image" src="https://github.com/user-attachments/assets/61dc47b7-db60-4894-9601-5c18b6fc022a" />
+
+- nvm, i wanted to change it just to be safe
+  
+<img width="467" height="315" alt="image" src="https://github.com/user-attachments/assets/a7020b1a-d2fe-4c84-ba2f-30946ba0b75b" />
+
+- rounded the corners and routed! now time for CAD
+
+<img width="731" height="469" alt="image" src="https://github.com/user-attachments/assets/3144b1c8-f2c2-4245-be2c-568f3ff345c8" />
+
+- added holes + the rectangle itself
+
+<img width="882" height="597" alt="image" src="https://github.com/user-attachments/assets/fa774078-661e-41d1-ade7-dd036b48b9de" />
+
+- tried to add top plate but i think its better to just have backplate
+- printed the PCB IRL!
+- going to print the backplate to get a feel on what this is going to be like
+
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/9e9c9ea2-bcee-4e27-bd25-c2c4acd9d142" />
+
+- prined backplate out; pretty good fit!
