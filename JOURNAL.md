@@ -102,3 +102,28 @@
 <img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/9e9c9ea2-bcee-4e27-bd25-c2c4acd9d142" />
 
 - prined backplate out; pretty good fit!
+
+### 5/23: (started 8:47)
+- time for The Great Reset
+- im starting over designs
+- i want to rival the industry standard cubing timer
+- browsing https://speedcubeshop.com/collections/timers-mats?srsltid=AfmBOopexjruzZxA7FfL3zBg9GQAVpsEH9dB6mVJ9Nki_ceUBmzxgrYh for inspo + ideas
+- bro no way there is an AI speedcubing timer; this is wild
+- ok im thinking to use capacitve touch pad instead of switches to not make this a hackpad
+- watching https://www.youtube.com/watch?v=tTMsbL0eH_M to learn
+- that video wasn't helpful; watching https://www.youtube.com/watch?v=42jUcqwKIw8
+- that vid didn't have much so watching this https://www.youtube.com/watch?v=mWR9Q_pTagw
+- ok capacitve touch is very hard to implement in such a large area such as a palm
+- lots of chance for missed calls
+- did some research and a grand total of 0 people have made an open source cubing timer
+- soooo this is the first! thats kind of cool
+
+<img width="496" height="251" alt="image" src="https://github.com/user-attachments/assets/f991011a-7c6c-40e6-8697-84e4f0002857" />
+
+- okay i might use this type of design with infared/distance sensors on each side to determine
+- mx switches aren't good bc they are designed for fingers, not hands
+- ok this is a hard project
+- wait i found [https://github.com/amadensor/cube-timer/tree/main/pcb/cube_timer](https://github.com/tibordp/cube-timer)
+- ok mine is the first PCB + case; the project is just an ESP32 on a breadboard
+- going to read https://ww1.microchip.com/downloads/en/DeviceDoc/40001946A.pdf
+- ok idk if this is possible even 
