@@ -127,3 +127,45 @@
 - ok mine is the first PCB + case; the project is just an ESP32 on a breadboard
 - going to read https://ww1.microchip.com/downloads/en/DeviceDoc/40001946A.pdf
 - ok idk if this is possible even 
+
+### Jun 10 (2 hours)
+- rebranding this to be a chess clock again
+- planning to use 8-segment clock displays like this one:
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/01e729d2-ef02-4143-a375-3601516b0e82" />
+
+- thats what these clocks use:
+
+<img width="191" height="143" alt="image" src="https://github.com/user-attachments/assets/20c3415b-d7c0-4b0c-b40e-fdee72febdc2" />
+
+- going to also use mx switches cause hey are used in:
+
+<img width="276" height="183" alt="image" src="https://github.com/user-attachments/assets/da560400-eb0f-454f-aaa3-49dcd3f03d11" />
+
+- time to import all CAD models
+- ah i can only find 1.2" not 0.56"
+- i imported the mx switch
+- time to decide what MCU
+- i think ill use RP2040-zero
+- wait nvm its hard to mount?
+- i might use pico just because its easier to mount
+- imported the pico!
+- apparently i need beveled face to make it have good viewing angles
+- watching https://www.youtube.com/watch?v=eApyyNPppaY
+
+<img width="590" height="468" alt="image" src="https://github.com/user-attachments/assets/8f8208d8-e0c8-499c-a5b6-ee56ed98e7c5" />
+
+- starting to look like a chess clock!
+- did some more research on how to mount a mx switch
+- i need a 14x14mm cutout with 1.5mm plate size
+
+<img width="648" height="395" alt="image" src="https://github.com/user-attachments/assets/0f52844a-a498-48bd-9fa7-35b408e96f9c" />
+
+- looks great!
+- ill add pico mounting now
+
+<img width="940" height="343" alt="image" src="https://github.com/user-attachments/assets/5c0409d1-6cbf-4a40-ab2a-6180264eb85d" />
+
+- okay turns out every OLED is different
+- so ig ill have to redo some dimensions
+- also i might make it bigger
