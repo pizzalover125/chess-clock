@@ -1,2 +1,2 @@
-# cubing timer
-open source cubing timer
+# chess clock
+open source chess clock
