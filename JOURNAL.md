@@ -128,7 +128,7 @@
 - going to read https://ww1.microchip.com/downloads/en/DeviceDoc/40001946A.pdf
 - ok idk if this is possible even 
 
-### Jun 10 (2 hours)
+### Jun 10 (2.5 hours)
 - rebranding this to be a chess clock again
 - planning to use 8-segment clock displays like this one:
 
@@ -169,3 +169,22 @@
 - okay turns out every OLED is different
 - so ig ill have to redo some dimensions
 - also i might make it bigger
+
+- ok found models for the 0.56 i2c 7-segment display!
+- going to use that because its better
+
+<img width="1024" height="586" alt="image" src="https://github.com/user-attachments/assets/8883df91-888a-4f60-a155-62bc183d6d64" />
+
+- using this image
+- annoying i need to covnert to mm
+
+<img width="993" height="488" alt="image" src="https://github.com/user-attachments/assets/6e105b7e-b757-4066-8426-5e670031ae4f" />
+
+- voila!
+- time to add screen cutout
+
+<img width="850" height="458" alt="image" src="https://github.com/user-attachments/assets/0419dc0a-494a-4753-a2f2-927db2587431" />
+
+- looks like a chess clock
+- will later figure out how to assemble
+
