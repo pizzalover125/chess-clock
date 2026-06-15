@@ -103,7 +103,7 @@
 
 - prined backplate out; pretty good fit!
 
-### 5/23: (started 8:47)
+### 5/23: 1 hour
 - time for The Great Reset
 - im starting over designs
 - i want to rival the industry standard cubing timer
@@ -188,3 +188,39 @@
 - looks like a chess clock
 - will later figure out how to assemble
 
+### Jun 15 (2 hours)
+- i was away from my house for a couple of days
+- time to get back on this project
+
+<img width="1238" height="611" alt="image" src="https://github.com/user-attachments/assets/3d6369da-7720-4cc7-9f3c-4a258a74607c" />
+
+- added tolerances
+
+<img width="740" height="353" alt="image" src="https://github.com/user-attachments/assets/f4cbe432-88b3-45f3-a78f-0fe899530d4e" />
+
+- added a border!
+- it looks kinda weird ngl
+
+<img width="714" height="429" alt="image" src="https://github.com/user-attachments/assets/e35a5a20-db87-4987-befc-5857d7a027a5" />
+
+- added keycaps and colors! looks very cool
+
+<img width="549" height="644" alt="image" src="https://github.com/user-attachments/assets/e62e6b37-a415-4e7e-a8d4-78e9f8741de2" />
+
+- made it assembleable
+
+<img width="467" height="363" alt="image" src="https://github.com/user-attachments/assets/26ea892a-684f-4013-885f-12ffd73a8078" />
+
+- remade the assembly
+- ill make a render cause why not
+- technically i am done with the CAD
+- but idk if i want to make a PCB
+- cause it needs to arrive in time
+
+<img width="569" height="443" alt="image" src="https://github.com/user-attachments/assets/7509eb5b-aca7-41cf-89a2-090ddfbddbb7" />
+
+- ok made that
+- apparently M1 screws don't work with 3d printed stuff
+- so ill need M2
+- made it M2
+- ok im working super slow now idk why
