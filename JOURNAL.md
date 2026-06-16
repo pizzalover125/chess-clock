@@ -188,7 +188,7 @@
 - looks like a chess clock
 - will later figure out how to assemble
 
-### Jun 15 (2 hours)
+### Jun 15 (3 hours)
 - i was away from my house for a couple of days
 - time to get back on this project
 
@@ -224,3 +224,19 @@
 - so ill need M2
 - made it M2
 - ok im working super slow now idk why
+
+- new session at night
+- i added chamfer to add M3 holes!
+
+<img width="591" height="358" alt="image" src="https://github.com/user-attachments/assets/252aa259-8b5a-4279-8413-a03a34368021" />
+
+- the only major thing left other than firmware is how im going to assemble this
+- i dont want to make a PCB cause i want it to be done in time
+- PCB also not required?
+- i could use a breadboard
+- ok ill figure this out tmrw
+- will create wiring diagram!
+
+<img width="1437" height="563" alt="image" src="https://github.com/user-attachments/assets/c1aa0e42-26b6-47b1-a7eb-fdcd2e3f3d11" />
+
+- kinda basic because wiring diagram is kinda basic
