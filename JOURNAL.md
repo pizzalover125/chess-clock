@@ -240,3 +240,39 @@
 <img width="1437" height="563" alt="image" src="https://github.com/user-attachments/assets/c1aa0e42-26b6-47b1-a7eb-fdcd2e3f3d11" />
 
 - kinda basic because wiring diagram is kinda basic
+
+### Jun 16: (2 hours)
+- okay i learned that expedited shipping is allowed for JLCPCB
+- so im designing a PCB
+- this is also due to the fact that idk how to wire it without a PCB
+- will make it a lot cleaner also!
+
+<img width="492" height="518" alt="image" src="https://github.com/user-attachments/assets/4e3ddf10-9741-45dd-b8bf-d7e3365dfa3a" />
+
+- schematic done
+- time to assign footprints
+- assigned them!
+- problem: stemma qt is very small and hard to solder it seems like
+- ok this PCB is wayyyy too simple to need a PCB at all
+- ill figure out how standoffs work
+- watching https://www.youtube.com/watch?v=NHIrTtLCnEo
+
+<img width="434" height="177" alt="image" src="https://github.com/user-attachments/assets/9bc87acf-58e2-4fb3-b8a6-2007164effdd" />
+
+- that was so easy
+- found these bumpers: https://www.adafruit.com/product/550
+- will add them
+- actually no point in adding to CAD
+- made this https://docs.google.com/spreadsheets/d/1HJi_SoZmRUPXIg3fWTzNNd4LjoeZRIxf5KhnIGp8wuw/edit?usp=sharing!
+- comes out to $54.36 at a quantity of 1
+- hardware is so expensive
+- ok i just need to make firmware
+- i think this project is almost ready to ship!
+
+<img width="851" height="404" alt="image" src="https://github.com/user-attachments/assets/f50a64d8-017b-4b3d-ae98-029d6f6d197b" />
+<img width="533" height="438" alt="image" src="https://github.com/user-attachments/assets/a18a4893-6e74-40f3-8bb6-7cf5742e6834" />
+<img width="872" height="532" alt="image" src="https://github.com/user-attachments/assets/839f6640-68a2-40ef-957c-54ca9a62fe63" />
+<img width="875" height="521" alt="image" src="https://github.com/user-attachments/assets/7c580cbf-4214-4fa5-8869-afad18e226d3" />
+<img width="954" height="578" alt="image" src="https://github.com/user-attachments/assets/7737b3f2-c1f9-49ec-b407-0d040aaa9e45" />
+
+
