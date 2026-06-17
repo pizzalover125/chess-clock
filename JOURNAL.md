@@ -275,4 +275,7 @@
 <img width="875" height="521" alt="image" src="https://github.com/user-attachments/assets/7c580cbf-4214-4fa5-8869-afad18e226d3" />
 <img width="954" height="578" alt="image" src="https://github.com/user-attachments/assets/7737b3f2-c1f9-49ec-b407-0d040aaa9e45" />
 
+- added these holes:
+
+<img width="882" height="680" alt="image" src="https://github.com/user-attachments/assets/ac82dc35-3972-4f63-870f-39dd5f4d9a46" />
 
