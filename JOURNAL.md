@@ -279,3 +279,19 @@
 
 <img width="882" height="680" alt="image" src="https://github.com/user-attachments/assets/ac82dc35-3972-4f63-870f-39dd5f4d9a46" />
 
+### Jun 17: 1 hour
+- going to work on the firmware
+- somebody told me that the M2 wouldn't work
+- ok this is the firmware: https://pastebin.com/s5BTVMHb
+- pretty simple
+- going to make it better when i get parts
+- redesigned the wiring diagram cause I'm going to have batteries!
+
+<img width="823" height="497" alt="image" src="https://github.com/user-attachments/assets/8f763e54-d7ef-4b94-8c12-b3e2c8191e39" />
+
+- the display uses M2.5 holes 😭
+- time to fix
+- fixed
+- going to work on README
+- created README
+- updated files
