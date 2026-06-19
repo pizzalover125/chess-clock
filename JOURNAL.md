@@ -1,3 +1,7 @@
+# Journal
+
+total time spent: 12 hours 10 minutes
+
 ### May 15: (60 min)
 - thought of this project a long time ago
 - i wanted to build an open source chess clock
