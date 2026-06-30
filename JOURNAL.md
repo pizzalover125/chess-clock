@@ -299,3 +299,19 @@ total time spent: 12 hours 10 minutes
 - going to work on README
 - created README
 - updated files
+
+# BUILD
+
+### jun 29
+- ok this is going to be hard to build
+- I LAPSEd me soldering the 7-segment display
+- i printed out the bottom part
+- realized the top part isn't compatible with bottom part
+- need to redesign
+- didn't have USB-C hole either
+- redesigned!
+- asked for help on Slack
+- got that help with print settings
+- ok redesigned:
+
+<img width="1024" height="485" alt="image" src="https://github.com/user-attachments/assets/3f11ffcb-1528-421e-bb46-ea04fcd380f0" />
