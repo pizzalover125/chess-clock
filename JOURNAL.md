@@ -302,7 +302,7 @@ total time spent: 12 hours 10 minutes
 
 # BUILD
 
-### jun 29
+### jun 29 (1 hour)
 - ok this is going to be hard to build
 - I LAPSEd me soldering the 7-segment display
 - i printed out the bottom part
@@ -315,3 +315,22 @@ total time spent: 12 hours 10 minutes
 - ok redesigned:
 
 <img width="1024" height="485" alt="image" src="https://github.com/user-attachments/assets/3f11ffcb-1528-421e-bb46-ea04fcd380f0" />
+
+- printed it
+- the hole was too small
+- the supports were impossible to remove
+- will reprint
+
+### july 9th (1 hour)
+- i was a bit sidetracked from this project
+- time to lock in and actually build it :)
+- i got these stemma qt ports to make assembly easier
+- soldered wires to the mx switches
+- i cant find the pink usb-c pi pico
+- i've looked off-jounral on multiple days
+- AHHHHH
+- found it
+- LETS GO
+- soldered the wires
+- assembled it on a breadboard
+- wow that took a while
